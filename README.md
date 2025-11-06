@@ -58,10 +58,8 @@ I’m also a big fan of **video games** and continuous learning.
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-242424?style=for-the-badge&logo=githubpages&logoColor=white)](https://rogergometavila.github.io)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/roger-gomez-40a318338/))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-242424?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/RogerCrack30)
 
 ---
 
