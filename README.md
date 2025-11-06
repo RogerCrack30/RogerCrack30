@@ -1,5 +1,3 @@
-<!-- Banner -->
-![Roger Andres Gomez Davila Banner](https://i.imgur.com/zA0FQ9Y.png)
 
 <h1 align="center">👋 Hi, I'm Roger Andres Gomez Davila</h1>
 <h3 align="center">🎓 Student of Systems Engineering | 🎨 Graphic Designer | 💻 Web Developer</h3>
