@@ -43,8 +43,8 @@ I’m also a big fan of **video games** and continuous learning.
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RogerGometavila&show_icons=true&theme=react&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerGometavila&layout=compact&theme=react&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RogerCrack30&show_icons=true&theme=react&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerCrack30&layout=compact&theme=react&hide_border=true" />
 </p>
 
 ---
